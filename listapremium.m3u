@@ -1,0 +1,92 @@
+#EXTM3U
+#EXTINF:-1,TELE EUROPA
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-2,LA 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-3,LA 2
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-4,24H
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-5,EURONEWS
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-6.EL PAIS
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-7,EL CONFIDENCIAL
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:-8,TELEDEPORTE GEO
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:-9,REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-10,CLAN GEO
+https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
+#EXTINFO:-11,PEQUERADIO TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-12,CARTOON NETWORKS LATINO
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:-13,HOLA!
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
+#EXTINF:-14,CANAL PARLAMENTO
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-15,ONDA CERO
+https://live-estudio.ondacero.es/estudio_oc-pull/video/master.m3u8
+#EXTINF:-16,CANAL SUR
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-17,101TV MALAGA
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-18,ONDA CADIZ
+https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
+EXTINF:-19,M95 MARBELLA
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+EXTINF:-20, HUELVA TV
+https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
+#EXTINF:-21,CORDOBA TV
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+#EXTINF:-22,CANAL CORDOBA
+https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
+#EXTINF:-23,ARAGON TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-24,TV HELLIN
+https://hellin-hls-live.flumotion.com/playlist.m3u8
+#EXTINF:-25,TELEMADRID
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+#EXTINF:-26,7 TELEVALENCIANA
+https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
+#EXTINF:-27,TELELX
+https://tvdirecto.teleelx.es/stream/teleelx.m3u8
+#EXTINF:-28,VEGA BAJA TV
+https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8
+#EXTINF:-29,MELILLA TV
+https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
+#EXTINF:-30,TELEBILBAO
+https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8
+#EXTINF:-31,LA URBAN TV
+https://urbanrevolution.es:8443/live/TV/master.m3u8
+#EXTINF:-32,MIAMI TV MEXICO
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-33,RUSSIAN US
+http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
+#EXTINF:-34,PORNSTAR US
+http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
+#EXTINF:-35,MILF US
+http://cdn.adultiptv.net/milf.m3u8?PlaylistM3UCL
+#EXTINF:-36,HARDCORE
+http://cdn.adultiptv.net/hardcore.m3u8?PlaylistM3UCL
+#EXTINF:-37,FETISH US
+http://cdn.adultiptv.net/fetish.m3u8?PlaylistM3UCL
+#EXTINF:-38,COMPILATION
+http://cdn.adultiptv.net/compilation.m3u8?PlaylistM3UCL
+#EXTINF:-39,BIG TITS
+http://cdn.adultiptv.net/bigtits.m3u8?PlaylistM3UCL
+#EXTINF:-40,LA LIGA TV BAR
+http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/579880.ts?checkedby:iptvcat.com
+#EXTINF:-41,MOVIESTAR CINE Ñ
+http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/579751.ts?checkedby:iptvcat.com
+#EXTINF:-42 MOVIESTAR COMEDIA
+http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/579745.ts?checkedby:iptvcat.com
+#EXTINF:-43,MOVIESTAR DREAMWORKS
+http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/579773.ts?checkedby:iptvcat.com
+#EXTINF:-44,TELEMADRID
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8?checkedby:iptvcat.com
+
+
+
